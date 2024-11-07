@@ -1,4 +1,4 @@
-package tn.esprit.se.springproject1.entities;
+package tn.esprit.tic.se.springproject.entities;
 
 public enum TypeChambre {
     SIMPLE,
